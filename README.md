@@ -5,3 +5,5 @@ We take advantage of the recent cluster catalogue from the first $\textit{eROSIT
 The large eRASS:1 cluster catalogue provides an independent dataset with which we investigate the significant excess of clusters detected in the local WARPS sample.
 We construct and fit the eRASS:1 XLF, and conclude that the excess does not persist . 
 Further analysis is required to understand the origin of the excess in K13, along with an improved selection function to better analyse the eRASS:1 catalogue.
+
+LO acknowledges support from the RAS Undergraduate Research Bursary 2025.
